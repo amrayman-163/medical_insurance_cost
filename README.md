@@ -138,10 +138,3 @@ Model Evaluation
 Coefficient Analysis
 ```
 
-## 👨‍💻 Author
-
-**Amr Ayman**
-
-Computer Science Student \| Data Science & AI
-
-GitHub: https://github.com/amrayman-163
